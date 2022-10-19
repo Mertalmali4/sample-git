@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Algorithms and Programin-I
+=======
+
+CE103 ALGORİTHMS AND PROGRAMMİN-I
+>>>>>>> feature/branch-1
